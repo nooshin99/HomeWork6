@@ -1,0 +1,167 @@
+body {
+  padding: 235px;
+  place-content: center;
+}
+.app {
+  display: block;
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+  font-family: "Water Brush", cursive;
+}
+.form-control {
+  border: 1px solid rgb(183, 216, 226);
+  color: rgb(118, 162, 201);
+  font-size: large;
+  margin-left: 47px;
+  font-family: "Rajdhani", sans-serif;
+}
+.btn {
+  margin-right: 1127px;
+}
+#button-addon2 {
+  color: rgb(37, 103, 161);
+  font-size: 15px;
+  padding: 4px;
+  background-color: rgb(193, 211, 226);
+  border: 1px solid rgb(37, 103, 161);
+  font-family: "Rajdhani", sans-serif;
+}
+.city {
+  margin-left: 20px;
+  font-size: 50px;
+  font-family: "Rajdhani", sans-serif;
+  color: rgb(25, 21, 21);
+}
+#temp {
+  font-size: 50px;
+  text-indent: 10px;
+  font-family: "Rajdhani", sans-serif;
+}
+#celsius {
+  font-size: 20px;
+  position: relative;
+  left: -2px;
+  top: -18px;
+}
+#fahrenheit {
+  font-size: 20px;
+  position: relative;
+  left: -10px;
+  top: -18px;
+}
+.sunny {
+  opacity: 50%;
+  margin-left: 25px;
+  margin-top: -20px;
+  font-family: "Rajdhani", sans-serif;
+}
+.today {
+  margin-left: 25px;
+  font-size: 15px;
+  padding-top: 20px;
+  font-family: "Rajdhani", sans-serif;
+}
+#todayDate {
+  margin-left: 22px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
+.nextday {
+  margin: 35px;
+  padding: 52px;
+  font-size: 25px;
+  font-family: "Rajdhani", sans-serif;
+}
+.emogy {
+  margin: 35px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.emogy1 {
+  margin: 62px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.emogy2 {
+  margin: 97px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.emogy3 {
+  margin: 65px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.emogy4 {
+  margin: 80px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.minmax {
+  margin: 35px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.minmax1 {
+  margin: 7px;
+  padding: 52px;
+  font-family: "Rajdhani", sans-serif;
+}
+.minmax2 {
+  margin: 4px;
+  padding: 20px;
+  font-family: "Rajdhani", sans-serif;
+}
+.minmax3 {
+  margin: 39px;
+  padding: 20px;
+  font-family: "Rajdhani", sans-serif;
+}
+.minmax4 {
+  margin: 25px;
+  padding: 20px;
+  font-family: "Rajdhani", sans-serif;
+}
+.vertical {
+  border-left: 2px solid rgb(111, 107, 107);
+  height: 220px;
+  position: absolute;
+  left: 59%;
+  margin-top: -239px;
+  font-family: "Rajdhani", sans-serif;
+}
+.more {
+  margin: 28px;
+  padding: 0px;
+  font-size: large;
+  font-family: "Rajdhani", sans-serif;
+}
+.more1 {
+  margin: 55px;
+  padding: 0px;
+  font-size: large;
+  font-family: "Rajdhani", sans-serif;
+}
+.more2 {
+  margin: 90px;
+  padding: 0px;
+  font-size: large;
+  font-family: "Rajdhani", sans-serif;
+}
+.more3 {
+  margin: 52px;
+  padding: 0px;
+  font-size: large;
+  font-family: "Rajdhani", sans-serif;
+}
+.more4 {
+  margin: 66px;
+  padding: 0px;
+  font-size: large;
+  font-family: "Rajdhani", sans-serif;
+}
+.wide {
+  margin: 0px;
+  font-family: "Rajdhani", sans-serif;
+}
